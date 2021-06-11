@@ -1,0 +1,180 @@
+
+---Downloaded files---
+The import files for: Main Demo 01 were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8181
+Data file = /Users/leo/Documents/clientes/amor&limoes/loja/wp-content/themes/nels/includes/resources/demos/demo-01/demo-01.xml
+Widget file = /Users/leo/Documents/clientes/amor&limoes/loja/wp-content/themes/nels/includes/resources/demos/demo-01/widgets-01.wie
+Customizer file = /Users/leo/Documents/clientes/amor&limoes/loja/wp-content/themes/nels/includes/resources/demos/demo-01/theme-options-01.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Barra lateral 9 : 
+
+Posts recentes - No Title - Imported
+Comentários - No Title - Imported
+
+Barra lateral 9 : 
+
+Filtrar produtos por atributo - Filter by - Imported
+Filtrar produtos por classificação - Average rating - Imported
+Avaliações recentes de produtos - Recent reviews - Imported
+Comentários - No Title - Imported
+
+Barra lateral 9 : 
+
+Posts recentes - No Title - Imported
+Categorias - No Title - Imported
+Comentários - No Title - Imported
+
+Barra lateral 9 : 
+
+Imagem - No Title - Imported
+Texto - No Title - Imported
+Pikart Social Links - No Title - Imported
+
+Barra lateral 9 : 
+
+Menu - Our Policies - Imported
+
+Barra lateral 9 : 
+
+WPForms - Get 10% Off Coupon - Imported
+
+Barra lateral 9 : 
+
+Posts recentes - No Title - Imported
+
+Barra lateral 9 : 
+
+Filtrar produtos por classificação - Average rating - Imported
+Filtrar produtos por atributo - Filter by - Imported
+Filtrar produtos por atributo - Filter by - Imported
+Categorias de produto - Product categories - Imported
+
+Barra lateral 9 : 
+
+Filtrar produtos por preço - Filter by price - Imported
+Categorias de produto - Product categories - Imported
+Pesquisar produto - No Title - Imported
+Nuvem de tags de produto - Product tags - Imported
+Produtos por avaliação - Top rated products - Imported
+Avaliações recentes de produtos - Recent reviews - Imported
+
+Barra lateral 10 : 
+
+Agenda - No Title - Imported
+Produtos por avaliação - Top rated products - Imported
+
+Barra lateral 11 : 
+
+Avaliações recentes de produtos - Recent reviews - Imported
+Posts recentes - No Title - Imported
+
+Barra lateral 12 : 
+
+Imagem - No Title - Imported
+
+Barra lateral 13 : 
+
+Imagem - No Title - Imported
+
+Barra lateral 14 : 
+
+Imagem - No Title - Imported
+
+Barra lateral 15 : 
+
+Imagem - No Title - Imported
+
+Barra lateral 16 : 
+
+Imagem - No Title - Imported
+
+Barra lateral 17 : 
+
+Imagem - No Title - Imported
+
+Barra lateral 18 : 
+
+Imagem - No Title - Imported
+
+Barra lateral 19 : 
+
+Imagem - No Title - Imported
+
+Barra lateral 20 : 
+
+Imagem - No Title - Imported
+
+Barra lateral 21 : 
+
+Imagem - No Title - Imported
+
+Barra lateral 22 : 
+
+Imagem - No Title - Imported
+
+Barra lateral 23 : 
+
+Categorias de produto - Product categories - Imported
+Produtos por avaliação - Top rated products - Imported
+Nuvem de tags de produto - Product tags - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
