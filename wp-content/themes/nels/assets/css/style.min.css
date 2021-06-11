@@ -6883,6 +6883,7 @@ li.product-category .card-body .card-content .border-top-cat{
 .card--default .card-body {
   border: 0.0625rem solid #f2f2f2; }
   .sticky.card--default .card-body { 
+    
    -moz-box-shadow: 0 0.9375rem 0.9375rem -0.5625rem rgba(0, 0, 0, 0.3);
     -webkit-box-shadow: 0 0.9375rem 0.9375rem -0.5625rem rgba(0, 0, 0, 0.3);
     box-shadow: 0 0.9375rem 0.9375rem -0.5625rem rgba(0, 0, 0, 0.3); }
